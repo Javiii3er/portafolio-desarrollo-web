@@ -32,37 +32,37 @@ Este proyecto es un **portafolio académico y de programación**, desarrollado c
 ##  Instalación y ejecución  
 
 1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/Javiii3er/portafolio-desarrollo-web.git
-````
+   
+   git clone https://github.com/Javiii3er/portafolio-desarrollo-web.git  
+
 
 2. Accede a la carpeta del proyecto:
 
-   ```bash
+   
    cd portafolio-umg
-   ```
+ 
 
 3. Instala las dependencias:
 
-   ```bash
+   
    npm install
-   ```
+
 
 4. Inicia la aplicación en modo desarrollo:
 
-   ```bash
-   npm start
-   ```
 
-5. Abre tu navegador en **[http://localhost:3000](http://localhost:3000)** 🚀
+   npm start
+
+
+5. Abre tu navegador en **[http://localhost:3000](http://localhost:3000)** 
 
 ---
 
 ##  Próximas mejoras
 
-*  Buscador para localizar investigaciones y proyectos rápidamente.
-*  Sistema de categorías o etiquetas para organizar el contenido.
-*  Posibilidad de subir imágenes dentro de las investigaciones.
+  - Buscador para localizar investigaciones y proyectos rápidamente.
+  - Sistema de categorías o etiquetas para organizar el contenido.
+  - Posibilidad de subir imágenes dentro de las investigaciones.
 
 ---
 
