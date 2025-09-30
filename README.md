@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+#  Portafolio de Tareas – UMG  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es un **portafolio académico y de programación**, desarrollado con **React** y **Bootstrap**, que organiza y presenta de forma clara los diferentes trabajos realizados durante mi formación en la **Universidad Mariano Gálvez**.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+##  Características principales  
 
-### `npm start`
+-  **Investigaciones**  
+  - Editor enriquecido para escribir y dar formato al contenido.  
+  - Opción de exportar las investigaciones en **PDF** con carátula estilo UMG.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-  **Proyectos de Programación**  
+  - Apartado para registrar proyectos con **título** y **descripción breve**.  
+  - Enlaces directos a repositorios de **GitHub** o a versiones publicadas en **GitHub Pages**.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-  **Diseño personalizado**  
+  - Paleta de colores y estilos inspirados en la identidad visual de la **UMG**.  
+  - Interfaz intuitiva y responsiva, fácil de usar tanto en escritorio como en dispositivos móviles.  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Tecnologías utilizadas  
 
-### `npm run build`
+- **React** – Librería principal para la construcción de la interfaz.  
+- **Bootstrap** – Estilos base y componentes responsivos.  
+- **CSS personalizado** – Paleta de colores UMG y diseño adaptado.  
+- **html2pdf.js** – Generación de documentos PDF desde las investigaciones.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  Instalación y ejecución  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/Javiii3er/portafolio-desarrollo-web.git
+````
 
-### `npm run eject`
+2. Accede a la carpeta del proyecto:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   cd portafolio-umg
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Instala las dependencias:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Inicia la aplicación en modo desarrollo:
 
-## Learn More
+   ```bash
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Abre tu navegador en **[http://localhost:3000](http://localhost:3000)** 🚀
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+##  Próximas mejoras
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+*  Buscador para localizar investigaciones y proyectos rápidamente.
+*  Sistema de categorías o etiquetas para organizar el contenido.
+*  Posibilidad de subir imágenes dentro de las investigaciones.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+##  Licencia
 
-### Making a Progressive Web App
+Este proyecto es de uso académico y personal.
+Puedes usarlo como inspiración para crear tu propio portafolio o adaptarlo a tus necesidades.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+ Desarrollado por **José Luis Rivera** – Universidad Mariano Gálvez
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -1,0 +1,67 @@
+/* Colores oficiales UMG */
+:root {
+  --umg-dorado: #b1832d;
+  --umg-rojo: #c62b28;
+  --umg-azul: #16709f;
+  --umg-blanco: #ffffff;
+  --umg-negro: #2b2422;
+}
+
+/* Estilos personalizados con colores UMG */
+.umg-bg-dorado { background-color: var(--umg-dorado); }
+.umg-bg-rojo { background-color: var(--umg-rojo); }
+.umg-bg-azul { background-color: var(--umg-azul); }
+.umg-bg-blanco { background-color: var(--umg-blanco); }
+
+.umg-text-dorado { color: var(--umg-dorado); }
+.umg-text-rojo { color: var(--umg-rojo); }
+.umg-text-azul { color: var(--umg-azul); }
+.umg-text-blanco { color: var(--umg-blanco); }
+.umg-text-negro { color: var(--umg-negro); }
+
+.umg-border-dorado { border-color: var(--umg-dorado); }
+.umg-border-rojo { border-color: var(--umg-rojo); }
+.umg-border-azul { border-color: var(--umg-azul); }
+
+/* Navbar con colores UMG */
+.umg-navbar {
+  background: linear-gradient(135deg, var(--umg-azul) 0%, var(--umg-rojo) 100%);
+}
+
+.umg-navbar .navbar-brand {
+  color: var(--umg-blanco) !important;
+  font-weight: bold;
+}
+
+.umg-navbar .nav-link {
+  color: var(--umg-blanco) !important;
+}
+
+.umg-navbar .nav-link:hover {
+  color: var(--umg-dorado) !important;
+}
+
+/* Botones UMG */
+.btn-umg-primary {
+  background-color: var(--umg-azul);
+  border-color: var(--umg-azul);
+  color: var(--umg-blanco);
+}
+
+.btn-umg-primary:hover {
+  background-color: #125a80;
+  border-color: #125a80;
+  color: var(--umg-blanco);
+}
+
+.btn-umg-secondary {
+  background-color: var(--umg-dorado);
+  border-color: var(--umg-dorado);
+  color: var(--umg-blanco);
+}
+
+.btn-umg-secondary:hover {
+  background-color: #966c25;
+  border-color: #966c25;
+  color: var(--umg-blanco);
+}
