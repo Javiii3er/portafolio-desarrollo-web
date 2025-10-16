@@ -89,7 +89,7 @@ export default function FormularioProyecto() {
           <div className="card p-4 shadow-sm border-0">
             <div className="mb-3">
               <label className="form-label">
-                <strong>🚀 Título del Proyecto:</strong>
+                <strong>Título del Proyecto:</strong>
               </label>
               <input
                 type="text"
