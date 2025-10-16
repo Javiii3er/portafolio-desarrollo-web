@@ -60,7 +60,7 @@ Este proyecto es un **portafolio académico y de programación**, desarrollado c
 
 ##  Elace al sitio implementado  
 
-    https://portafolio-tareas-javiii3er.netlify.app/
+    [https://javiii3er.github.io/portafolio-desarrollo-web/]
 
 ##  Próximas mejoras
 
