@@ -58,6 +58,10 @@ Este proyecto es un **portafolio académico y de programación**, desarrollado c
 
 ---
 
+##  Elace al sitio implementado  
+
+    https://portafolio-tareas-javiii3er.netlify.app/
+
 ##  Próximas mejoras
 
   - Buscador para localizar investigaciones y proyectos rápidamente.
