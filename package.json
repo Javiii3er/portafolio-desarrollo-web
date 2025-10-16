@@ -2,6 +2,7 @@
   "name": "portafolio-desarrollo-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Javiii3er.github.io/portafolio-desarrollo-web",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/dom": "^10.4.1",
