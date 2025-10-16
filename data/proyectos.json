@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tarea 2: Página Web - Hoja de Vida",
+    "descripcion": "Mi hoja de vida personal desarrollada con HTML, CSS y JavaScript, mostrando mis habilidades, experiencia y proyectos como desarrollador web.",
+    "fecha": "29/9/2025",
+    "repositorio": "https://github.com/Javiii3er/mi-hoja-de-vida.git",
+    "sitioEnVivo": "https://javiii3er.github.io/mi-hoja-de-vida/"
+  },
+  {
+    "id": 2,
+    "titulo": "Tarea 3: Formulario e investigación",
+    "descripcion": "Sistema de gestión de investigaciones académicas con formularios dinámicos y editor enriquecido.",
+    "fecha": "29/9/2025",
+    "repositorio": "https://github.com/Javiii3er/formulario-react-excel.git",
+    "sitioEnVivo": "https://javiii3er.github.io/formulario-react-excel/"
+  },
+  {
+    "id": 3,
+    "titulo": "Parcial 1",
+    "descripcion": "",
+    "fecha": "29/9/2025",
+    "repositorio": "https://github.com/Javiii3er/formulario-parcial.git",
+    "sitioEnVivo": "https://javiii3er.github.io/formulario-parcial/"
+  },
+  {
+    "id": 4,
+    "titulo": "Tarea 5: API",
+    "descripcion": "",
+    "fecha": "29/9/2025",
+    "repositorio": "https://github.com/Javiii3er/mi-api-expedientes.git",
+    "sitioEnVivo": ""
+  },
+  {
+    "id": 5,
+    "titulo": "Parcial 2",
+    "descripcion": "",
+    "fecha": "15/10/2025",
+    "repositorio": "https://github.com/Javiii3er/gestion-productos.git",
+    "sitioEnVivo": "https://statuesque-paletas-ea1bb0.netlify.app/"
+  }
+]
