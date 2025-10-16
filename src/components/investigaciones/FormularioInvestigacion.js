@@ -1,3 +1,4 @@
+// FormularioInvestigacion.js
 import { useState, useEffect, useRef } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import ModalConfirmacion from "../ModalConfirmacion";

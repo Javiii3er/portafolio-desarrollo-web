@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": 1,
+    "titulo": "Tarea 3: Formulario e investigación",
+    "contenido": "INTRODUCCIÓN Los formularios HTML son fundamentales en la web para recolectar información del usuario (registros, búsquedas, comentarios, etc.). Permiten la interacción entre el usuario y el sitio web, enviando datos al servidor para su procesamiento. En esta investigación exploraremos los diferentes tipos de campos, métodos de envío y validación de formularios HTML.",
+    "fecha": "29/9/2025",
+    "tipo": "todo"
+  },
+  {
+    "id": 2,
+    "titulo": "Tarea 1 - Glosario",
+    "contenido": "ADSL — Asymmetric Digital Subscriber Line. Tecnología de acceso dedicado fijo que permite transmisión de datos a alta velocidad sobre líneas telefónicas tradicionales.\nAJAX — Asynchronous JavaScript and XML. Tecnología que permite actualizar partes de una página web sin necesidad de recargarla completamente, mejorando la interactividad y la experiencia del usuario.\nAMF — Action Message Format. Formato binario utilizado para la transmisión de datos entre aplicaciones cliente-servidor, especialmente en aplicaciones Flash y RIA.",
+    "fecha": "29/9/2025",
+    "tipo": "glosario"
+  }
+]

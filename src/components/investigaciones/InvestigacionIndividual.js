@@ -1,3 +1,4 @@
+// InvestigacionIndividual.js
 import { useState, useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import jsPDF from "jspdf";
